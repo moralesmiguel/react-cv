@@ -1,3 +1,8 @@
+CV using React
+
+![cvcover](https://user-images.githubusercontent.com/51275356/74591259-0c8a2180-4fdc-11ea-9a2f-64fe0fca2541.PNG)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
